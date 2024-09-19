@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mugi250FD7E=",
+  "success": true,
+  "projectFilePath": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept-1\\SeleniumConcept-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6124811\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

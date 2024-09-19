@@ -1,0 +1,16 @@
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.Form1.resources
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.csproj.GenerateResource.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.AssemblyInfoInputs.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.AssemblyInfo.cs
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.csproj.CoreCompileInputs.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\bin\Debug\net8.0-windows\CSharpConcept2.exe
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\bin\Debug\net8.0-windows\CSharpConcept2.deps.json
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\bin\Debug\net8.0-windows\CSharpConcept2.runtimeconfig.json
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\bin\Debug\net8.0-windows\CSharpConcept2.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\bin\Debug\net8.0-windows\CSharpConcept2.pdb
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\refint\CSharpConcept2.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.pdb
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\CSharpConcept2.genruntimeconfig.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConcept2\obj\Debug\net8.0-windows\ref\CSharpConcept2.dll

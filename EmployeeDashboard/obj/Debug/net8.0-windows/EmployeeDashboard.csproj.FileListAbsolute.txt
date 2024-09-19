@@ -1,0 +1,4 @@
+C:\Selenium Training\CSharpSession\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Selenium Training\CSharpSession\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0-windows\App.g.cs
+C:\Selenium Training\CSharpSession\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0-windows\EmployeeDashboard_MarkupCompile.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0-windows\EmployeeDashboard_MarkupCompile.lref

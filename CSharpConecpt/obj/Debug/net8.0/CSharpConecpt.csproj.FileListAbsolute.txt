@@ -1,0 +1,14 @@
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\bin\Debug\net8.0\CSharpConecpt.exe
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\bin\Debug\net8.0\CSharpConecpt.deps.json
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\bin\Debug\net8.0\CSharpConecpt.runtimeconfig.json
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\bin\Debug\net8.0\CSharpConecpt.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\bin\Debug\net8.0\CSharpConecpt.pdb
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.AssemblyInfoInputs.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.AssemblyInfo.cs
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.csproj.CoreCompileInputs.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\refint\CSharpConecpt.dll
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.pdb
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\CSharpConecpt.genruntimeconfig.cache
+C:\Selenium Training\CSharpSession\AutomationSolution\CSharpConecpt\obj\Debug\net8.0\ref\CSharpConecpt.dll
