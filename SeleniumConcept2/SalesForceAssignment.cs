@@ -11,7 +11,7 @@ namespace SeleniumConcept2
 {
     public class SalesForceAssignment
     {
-        static void Main2(string[] args)
+        static void Main3(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
@@ -24,24 +24,29 @@ namespace SeleniumConcept2
             driver.FindElement(By.Name("UserEmail")).SendKeys("john@gmail.com");
 
             //Select dropdown job title
-            SelectElement selectjobtitle = new SelectElement(driver.FindElement(By.Id("UserTitle-byE8")));
-            selectjobtitle.SelectByText("IT_Manager_AP");
-
-            //Select Employees Count
-            SelectElement selectemplyeecount = new SelectElement(driver.FindElement(By.Id("CompanyEmployees-gj6z")));
-            selectemplyeecount.SelectByText("350");
+            SelectElement selectjobtitle = new SelectElement(driver.FindElement(By.XPath("//select[@name='UserTitle']")));
+            selectjobtitle.SelectByText("IT Manager");
 
             //Select country
-            SelectElement selectcountry = new SelectElement(driver.FindElement(By.Id("CompanyCountry-h0nf")));
-            selectcountry.SelectByText("GB");
+            SelectElement selectcountry = new SelectElement(driver.FindElement(By.Name("CompanyCountry")));
+            selectcountry.SelectByValue("GB");
 
-            IWebElement checkbox = driver.FindElement(By.Name("SubscriptionAgreement"));
+            //Select Employees Count
+            SelectElement selectemplyeecount = new SelectElement(driver.FindElement(By.Name("CompanyEmployees")));
+            selectemplyeecount.SelectByValue("350");
+
+            IWebElement checkbox = driver.FindElement(By.XPath("(//div[@class='checkbox-ui'])[2]"));
             if (!checkbox.Selected)
             {
                 checkbox.Click();
             }
 
             driver.FindElement(By.Name("start my free trial")).Click();
+
+            //get the error and display
+            string actualError = driver.FindElement(By.XPath("//span[contains(text(),'valid phone')]")).Text;
+            Console.WriteLine(actualError);
+
         }
     }
 }

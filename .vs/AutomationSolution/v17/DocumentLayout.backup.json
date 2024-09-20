@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A81E4060-76F8-43EE-8A1E-947CECEBAFF7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\selenium training\\csharpsession\\automationsolution\\seleniumconceptunittestproject\\demo1seleniumadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E4060-76F8-43EE-8A1E-947CECEBAFF7}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo1seleniumadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\selenium training\\csharpsession\\automationsolution\\seleniumconcept2\\salesforceassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\salesforceassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\selenium training\\csharpsession\\automationsolution\\seleniumconcept2\\phpmyadminassignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\phpmyadminassignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\selenium training\\csharpsession\\automationsolution\\seleniumconcept2\\medibuddyassignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\medibuddyassignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE95DCDB-230B-4272-AC1E-3709E0F9F879}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\selenium training\\csharpsession\\automationsolution\\seleniumconcept2\\demo2fbsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,37 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Demo2FBSignUp.cs",
-              "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignUp.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo2FBSignUp.cs",
-              "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignUp.cs*",
-              "RelativeToolTip": "SeleniumConcept2\\Demo2FBSignUp.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Demo1SeleniumAdv.cs",
+              "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo1SeleniumAdv.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo1SeleniumAdv.cs",
+              "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo1SeleniumAdv.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo1SeleniumAdv.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T09:43:29.144Z",
+              "WhenOpened": "2024-09-20T02:56:00.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MediBuddyAssignment3.cs",
+              "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\MediBuddyAssignment3.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\MediBuddyAssignment3.cs",
+              "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\MediBuddyAssignment3.cs",
+              "RelativeToolTip": "SeleniumConcept2\\MediBuddyAssignment3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:47:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phpMyAdminAssignment2.cs",
+              "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\phpMyAdminAssignment2.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\phpMyAdminAssignment2.cs",
+              "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\phpMyAdminAssignment2.cs",
+              "RelativeToolTip": "SeleniumConcept2\\phpMyAdminAssignment2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:33:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SalesForceAssignment.cs",
               "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\SalesForceAssignment.cs",
               "RelativeDocumentMoniker": "SeleniumConcept2\\SalesForceAssignment.cs",
               "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\SalesForceAssignment.cs",
               "RelativeToolTip": "SeleniumConcept2\\SalesForceAssignment.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T09:31:42.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Demo2FBSignUp.cs",
+              "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo2FBSignUp.cs",
+              "ToolTip": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignUp.cs",
+              "RelativeToolTip": "SeleniumConcept2\\Demo2FBSignUp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:43:29.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmplyeeRunner.cs",
               "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\EmployeeDashboard\\EmplyeeRunner.cs",
               "RelativeDocumentMoniker": "EmployeeDashboard\\EmplyeeRunner.cs",
@@ -69,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Emplyee.cs",
               "DocumentMoniker": "C:\\Selenium Training\\CSharpSession\\AutomationSolution\\EmployeeDashboard\\Emplyee.cs",
               "RelativeDocumentMoniker": "EmployeeDashboard\\Emplyee.cs",
